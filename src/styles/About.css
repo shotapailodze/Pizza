@@ -23,7 +23,7 @@
 }
 
 .aboutBottom p {
-  width: 1200px;
+  width: 80vw;
 }
 
 .about .aboutBottom h1 {
@@ -35,3 +35,4 @@
   justify-content: center;
   transform: translateY(-40px);
 }
+
